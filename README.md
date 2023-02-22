@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abishek Navneet Farde, pursuing my final year of Engineering @ IIT (BHU), Varanasi
-- 🌱 I’m interested in software development domain and currently working with MERN stack. Some of live projects are :
+- 🌱 I’m interested in software development domain and currently working with MERN stack. Some of my live projects are :
    - Shortest Path Finder : https://abhishek-farde.github.io/test/
    - Text utility : https://abhishek-farde.github.io/TextUtils/
    - Weather App : https://abhishek-farde.github.io/weather-app/
